@@ -1,0 +1,5 @@
+site_name: Quicken helpguide
+nav:
+  - Home: index.md
+theme:
+  name: mkdocs
