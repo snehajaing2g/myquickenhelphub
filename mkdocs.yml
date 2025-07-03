@@ -1,10 +1,13 @@
-site_name: Quicken helpguide
+site_name: Quicken Help Guide
 
 nav:
   - Home: index.md
+  - Setup: setup.md
+  - FAQs: faq.md
+  - Troubleshooting: troubleshooting.md
 
 theme:
-  name: mkdocs
+  name: material
 
 extra:
   meta:
