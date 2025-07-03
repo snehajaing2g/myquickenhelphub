@@ -7,9 +7,9 @@ nav:
   - Troubleshooting: troubleshooting.md
 
 theme:
-  name: material
+  name: mkdocs
 
 extra:
   meta:
-    - name: msvalidate.01
-      content: 7CAA4CDA4793B2BCF1F40EDE348E7D04
+    - name: "msvalidate.01"
+      content: "7CAA4CDA4793B2BCF1F40EDE348E7D04"
